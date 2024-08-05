@@ -17,3 +17,5 @@ Create a .env and then paste these
 run npm i and then npm i nodemon
 
 run nodemon index
+
+Made By Nishant Acharekar
